@@ -5,3 +5,26 @@
     box-sizing: border-box;     
 }
 
+h1{
+    padding-top: 4%;
+    color: white;
+    font-size: 400%;
+    font-kerning: auto;
+    text-align: center;
+}
+
+.oval {
+    height: 7px;
+    width: 20px;
+    background-color: rgb(255, 225, 141);
+    border-radius: 50%;
+    text-align: center;
+  }
+
+.oval2 {
+    height: 14px;
+    width: 40px;
+    background-color: #bda86f;
+    border-radius: 50%;
+    text-align: center;
+}
