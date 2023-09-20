@@ -6,7 +6,7 @@
 }
 
 h1{
-    padding-top: 4%;
+    padding-top: 3%;
     color: white;
     font-size: 400%;
     font-kerning: auto;
@@ -19,7 +19,13 @@ h1{
     background-color: rgb(255, 225, 141);
     border-radius: 50%;
     text-align: center;
+    padding-bottom: 10px;
   }
+
+.oval:hover{
+    background-color: aqua;
+    transition: background-color 1s;
+}
 
 .oval2 {
     height: 14px;
@@ -27,4 +33,5 @@ h1{
     background-color: #bda86f;
     border-radius: 50%;
     text-align: center;
+    padding-bottom: 10px;
 }
